@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "aussie",
+    "url": "./images/aussie.png"
+  },
+  {
+    "id": 2,
+    "name": "collie",
+    "url": "./images/bearded-collie.png"
+  },
+  {
+    "id": 3,
+    "name": "boxer",
+    "url": "./images/boxer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "chihuaha",
+    "url": "./images/chihuaha.png"
+  },
+  {
+    "id": 5,
+    "name": "corgi",
+    "url": "./images/corgi.png"
+  },
+  {
+    "id": 6,
+    "name": "cute-dog",
+    "url": "./images/cute-dog.png"
+  },
+  {
+    "id": 7,
+    "name": "german shep",
+    "url": "./images/german-shep.png"
+  },
+  {
+    "id": 8,
+    "name": "golden",
+    "url": "./images/golden.png"
+  },
+  {
+    "id": 9,
+    "name": "hound-dog",
+    "url": "./images/hound-dog.png"
+  },
+  {
+    "id": 10,
+    "name": "jack-russell",
+    "url": "./images/jack-russell.png"
+  },
+  {
+    "id": 11,
+    "name": "shiba-inu",
+    "url": "./images/shiba-inu.jpg"
+  },
+  {
+    "id": 12,
+    "name": "yellow-lab",
+    "url": "./images/yellow-lab.png"
+  }
+]
